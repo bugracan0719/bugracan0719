@@ -17,7 +17,7 @@
 
 - `> Contact:` [bugracanguclu@outlook.com]
   
-- `> Fun_Fact:` **Huge Resident Evil fan — debugging SQL queries feels a lot like surviving Raccoon City.**
+- `> Fun_Fact:` **Huge Resident Evil fan - I'M REBECCA!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
