@@ -7,7 +7,7 @@
 </picture>
 
 <h1 align="center">Hi 👋, I'm Buğra Can Güçlü</h1>
-<h3 align="center">A passionate Data Science lover from Türkiye</h3>
+<h3 align="center">A passionate Data Science lover from Türkiye🇹🇷</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
