@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">SELECT * FROM "data_analysts" WHERE name = 'Buğra Can Güçlü';</h1>
+<h1 align="center">SELECT * FROM "data_analysts" WHERE "name" = 'Buğra Can Güçlü';</h1>
 <h3 align="center">Data Analytics & Database Systems | Türkiye</h3>
 
 - `> Current_Focus:` **SQL Database Projects & Data Analysis Workflows**
