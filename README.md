@@ -6,16 +6,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">Hi 👋, I'm Buğra Can Güçlü</h1>
-<h3 align="center">A passionate Data Science lover from Türkiye🇹🇷</h3>
+<h1 align="center">SELECT * FROM "data_analysts" WHERE name = 'Buğra Can Güçlü';</h1>
+<h3 align="center">Data Analytics & Database Systems | Türkiye</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- `> Current_Focus:` **SQL Database Projects & Data Analysis Workflows**
 
-- 💬 Ask me about **SQL!**
+- `> Tech_Stack:` **SQL • Python • R • Data Visualization**
 
-- 📫 How to reach me **bugracanguclu@outlook.com**
+- `> Core_Skills:` **Data Cleaning, Relational Databases & Exploratory Data Analysis**
 
-- ⚡ Fun fact **Im a big Resident Evil fan :P**
+- `> Contact:` [bugracanguclu@outlook.com]
+  
+- `> Fun_Fact:` **Huge Resident Evil fan — debugging SQL queries feels a lot like surviving Raccoon City.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
