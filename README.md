@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bugracanguclu@outlook.com**
 
-- ⚡ Fun fact **Im a big Resident Evil fan**
+- ⚡ Fun fact **Im a big Resident Evil fan :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
