@@ -1,4 +1,11 @@
 ![MasterHead](https://i.postimg.cc/zX78tmcW/Aj6DDj-W-Imgur.png)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Buğra Can Güçlü</h1>
 <h3 align="center">A passionate Data Science lover from Türkiye</h3>
 
@@ -26,8 +33,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugracan0719&theme=highcontrast" alt="bugracan0719" /></p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
-</picture>
