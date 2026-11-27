@@ -38,4 +38,4 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/power-bi-2021.png" alt="powerbi" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugracan0719&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bugracan0719" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugracan0719&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="bugracangl" /></p>
