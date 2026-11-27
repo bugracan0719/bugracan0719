@@ -17,7 +17,7 @@
 
 - `> Contact:` [bugracanguclu@outlook.com]
   
-- `> Fun_Fact:` **Huge Attack on Titan fan ⚔️**
+- `> Fun_Fact:` **Huge Resident Evil and AoT fan ☂️⚔️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
