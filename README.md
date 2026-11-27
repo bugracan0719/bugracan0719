@@ -1,9 +1,9 @@
 ![MasterHead](https://i.postimg.cc/zX78tmcW/Aj6DDj-W-Imgur.png)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracan0719/bugracan0719/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bugracangl/bugracangl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bugracangl/bugracangl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bugracangl/bugracangl/output/github-contribution-grid-snake.svg">
 </picture>
 
 <h1 align="center">SELECT * FROM "data_analysts" WHERE "name" = 'Buğra Can Güçlü';</h1>
